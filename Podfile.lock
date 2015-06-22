@@ -1,0 +1,14 @@
+PODS:
+  - Alamofire (1.2.3)
+  - SwiftyParse (0.8.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyParse
+
+SPEC CHECKSUMS:
+  Alamofire: 5550bf0b575ed1a4bf9be572f9463e1015cc169e
+  SwiftyParse: ec44a71243837678c065abcb9cb95434dbb17b9e
+
+COCOAPODS: 0.37.2
