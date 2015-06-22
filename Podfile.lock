@@ -1,11 +1,11 @@
 PODS:
   - Alamofire (1.2.3)
-  - SwiftyParse (0.8.0):
+  - SwiftyParse (HEAD based on 0.8.0):
     - Alamofire
 
 DEPENDENCIES:
   - Alamofire
-  - SwiftyParse
+  - SwiftyParse (HEAD)
 
 SPEC CHECKSUMS:
   Alamofire: 5550bf0b575ed1a4bf9be572f9463e1015cc169e
